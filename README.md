@@ -1,6 +1,6 @@
-##Simple real time nodejs chat application built with socket.io
+## Simple real time nodejs chat application built with socket.io
 
-###To get started
+### To get started
 
 1. run npm install
 2. run npm install nodemon --save-dev
