@@ -2,6 +2,7 @@
 
 ### To get started:
 
-1. run npm install
-2. run npm install nodemon --save-dev
-3. navigate to localhost:3000
+1. npm install
+2. npm install nodemon --save-dev
+3. npm run dev
+4. navigate to localhost:3000
