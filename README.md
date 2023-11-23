@@ -1,4 +1,4 @@
-# real-time nodejs chat application built with socket.io
+# real-time nodejs chat app built with socket.io
 
 ## to get started:
 
