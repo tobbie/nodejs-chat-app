@@ -1,6 +1,6 @@
-## Real time nodejs chat application built with socket.io
+# real-time nodejs chat app built with socket.io
 
-### To get started:
+## to get started:
 
 1. npm install
 2. npm install nodemon --save-dev
@@ -10,6 +10,12 @@
 5. go ahead and chat away :)
 6. you can group users in chat rooms
 
-### To contribute
+### what it looks like : join
+<img width="1019" alt="chat_app_join" src="https://github.com/tobbie/nodejs-chat-app/assets/4679573/03e42e36-5871-458d-b9ae-df93fbf85d10">
+
+### what it looks like : chatroom
+<img width="1243" alt="chat_room_interface" src="https://github.com/tobbie/nodejs-chat-app/assets/4679573/6179e6d9-53b1-4271-b18a-eed51b226d13">
+
+### to contribute
 
 - please read the guideline [here](https://github.com/tobbie/nodejs-chat-app/blob/develop/CONTRIBUTING.md)
