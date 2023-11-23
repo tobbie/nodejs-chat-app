@@ -10,6 +10,9 @@
 5. go ahead and chat away :)
 6. you can group users in chat rooms
 
+### what it looks like
+<img width="1019" alt="chat_app_join" src="https://github.com/tobbie/nodejs-chat-app/assets/4679573/03e42e36-5871-458d-b9ae-df93fbf85d10">
+
 ### To contribute
 
 - please read the guideline [here](https://github.com/tobbie/nodejs-chat-app/blob/develop/CONTRIBUTING.md)
